@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Next Project"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  title: "Crece tu Negocio Dental con el Marketing de ImplantADS"
+  content: "Aumentamos los ingresos de clínicas ​y consultorios dentales, captando ​pacientes de alto valor con anuncios ​en Facebook e Instagram."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Hablemos →"
     link: "https://github.com/zeon-studio/nextplate"
 
 # Features
